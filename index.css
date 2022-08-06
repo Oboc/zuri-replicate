@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    height: 1500px;
+    width: 900px;
+    background: rgb(239, 234, 234);
+    margin: auto auto;
+    position: relative;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    
+}
+.spa{
+    color: red;
+}
+.heada{
+    padding: 5%;
+    text-align: center;
+}
+.heada p{
+    font-size: 32px;
+}
+.headb{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+.headb p{
+font-size: 32px;
+}
+.headc {
+text-align: center;
+}
+.headc p{
+    padding-top: 2%;
+    padding-right: 12%;
+    padding-bottom:2%;
+    padding-left: 12%;
+}
+.but{
+    display: flex;
+    padding-left: 6%;
+    justify-content: center;
+    
+}
+.but1{
+    padding-right: 2%;
+}
+.but1 button{
+   background-color: red;
+   color: #ffffff;
+border: none;
+font-family: arial;
+
+font-size: 20px;
+padding: 10px 20px 10px 20px;
+
+}
+.but1 button:hover{
+background: white;
+color: red;
+text-decoration: none;
+
+
+}
+.but1 a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.but2{
+    padding-left: 2%;
+}
+
+.but2 button{
+background-color: red;  
+border: none;
+font-family: arial;
+color: #ffffff;
+font-size: 20px;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+
+}
+.but2 button:hover{
+background: white;
+color: red;
+}
+.but2 a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+.middle1 p{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+.middle2 p{
+    padding-bottom: 2%;
+    font-size: 30px;
+    padding-left: 20%;
+    padding-right: 20%;
+    justify-content: center;
+}
+.header{
+    display: flex;
+    padding-top: 5%;
+    background-image: url(./asset\ 1.png);
+    position: top left;
+    background-repeat: no-repeat;
+    margin-right: 2rem;
+}
+.headera1{
+    width: 15rem;
+    height: 30rem;
+    background-color: #fffafa;
+    padding: 1rem;
+    margin: 2rem;
+}
+
+.headera3 p{
+    padding-top: 30%;
+}
+.headera4{
+    padding-top: 3rem;
+}
+
+.headerb1{
+    width: 15rem;
+    height: 30rem;
+    background-color: #fffafa;
+    padding: 1rem;
+   
+
+}
+.headerb{
+    margin: 2rem;
+}
+
+.headerb3 p{
+    padding-top: 30%;
+}
+.headerb4{
+    padding-top: 3rem;
+}
+
+.headerc1{
+    width: 15rem;
+    height: 30rem;
+    background-color: #fffafa;
+    padding: 1rem;
+   
+
+}
+.headerc{
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.headerc3 p{
+    padding-top: 30%;
+}
+.headerc4{
+    padding-top: 3rem;
+}
+.foot{
+    display: flex;
+}
+.foota{
+    padding: 5%;
+}
+.footb{
+    padding: 5%;
+}
+.footb2 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.footc{
+padding: 5%;
+}
+.footc3{
+    padding-top: 2rem;
+}
+
+.footd{
+    padding: 5%;
+}
+.footc1 img{
+    width: 40%;
+}
+.footc1{
+    display: flex;
+    padding-top: 1rem;
+}
+hr{
+    width: 100%;
+}
+
+.end{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+.end2{
+padding-top: 2rem;
+}
+.end2 p{
+    text-align: center;
+}
+
+
+
